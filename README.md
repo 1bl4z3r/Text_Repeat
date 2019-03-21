@@ -23,13 +23,11 @@ Because I am an avid Watch_Dogs fan, so you get the idea.
 >Don't delete *Preferences* Folder, it contains drivers for the browsers Firefox and Chrome
 
 ----
-##License
-
+## License
 GNU Affero General Public License v3.0
 
 ----
-##Current Version
-
+## Current Version
 * 0.1 
 
 ![Download](https://img.shields.io/badge/Download%20v0.1-21.3%20MB-brightgreen.svg?style=for-the-badge&logo=Windows&link=https://github.com/1bl4z3r/Text_Repeat/blob/Download/TextRepeatv0.1.zipleft)
