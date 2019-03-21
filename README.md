@@ -16,7 +16,7 @@ Because I am an avid Watch_Dogs fan, so you get the idea.
 
 ----
 ## Usage
-1. Download the zip file from.
+1. Download the zip file from [here](https://github.com/1bl4z3r/Text_Repeat/edit/master/README.md#current-version).
 2. Unzip it (LOL).
 3. Doubleclick **TextRepeat.exe**
 
