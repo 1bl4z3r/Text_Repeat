@@ -96,7 +96,7 @@ if __name__ == "__main__":
 		print("\t+-++-++-++-++-++-++-++-++-++-++-+\t+-++-++-++-++-+")
 		while True:
 			if input("\nDo you want to view manual (y/n)? ").lower()=="y":
-				webbrowser.open("https://1bl4z3r.github.io/",autoraise=True)
+				webbrowser.open("https://github.com/1bl4z3r/Text_Repeat/blob/download/README.md",autoraise=True)
 			else:
 				file_check()
 				break
