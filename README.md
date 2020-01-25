@@ -27,7 +27,7 @@ _Now, a Disclaimer_
 
 When you download Text_Repeat, you will be presented with
 
-> **dev.zip** : This contains all the unmodified files for those who like tinkering. You need to have python >= *3.0* installed.
+> **Text_Repeat-download.zip** : This contains all the unmodified files for those who like tinkering. You need to have python >= *3.0* installed.
 
 This zip contains:
 - Readme
