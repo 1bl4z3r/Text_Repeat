@@ -1,0 +1,3 @@
+All messages must be in seperate lines
+Like this
+Good Luck
