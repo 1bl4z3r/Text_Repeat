@@ -16,7 +16,7 @@ On more serious note, if you are like me, sending wishes over WhatsApp (because 
 
 >Good Luck, Chuck (For last one)
 
-__Now, a Disclaimer__
+_Now, a Disclaimer_
 
 1. Don't cry if your best friend blocked you as you didn't knew when to stop.
 2. I am not responsible if the recipient breaks your phone or bones.
@@ -27,7 +27,7 @@ __Now, a Disclaimer__
 
 When you download Text_Repeat, you will be presented with
 
-> **dev.zip** : This contains all the unmodified files for those who like tinkering. You need to have python >= *3.0* installed.
+> **Text_Repeat-download.zip** : This contains all the unmodified files for those who like tinkering. You need to have python >= *3.0* installed.
 
 This zip contains:
 - Readme
