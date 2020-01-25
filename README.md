@@ -6,7 +6,7 @@ Hi! This is a help file-cum-user manual for the script **Text_Repeat**. You need
 
 Seriously, read whole of this stuff. Download can wait.
 
-[Download]()
+[Download](https://github.com/1bl4z3r/Text_Repeat/archive/download.zip)
 
 ## Why do I need this?
 
