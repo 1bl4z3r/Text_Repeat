@@ -1,6 +1,6 @@
 # TEXT_REPEAT
 
-![Python](https://www.python.org/static/community_logos/python-powered-w-70x28.png)
+![Icon](https://github.com/1bl4z3r/Text_Repeat/blob/master/tr1.ico) ![Python](https://www.python.org/static/community_logos/python-powered-w-70x28.png)
 
 Hi! This is a help file-cum-user manual for the script **Text_Repeat**. You need to know something before you go totally bonkers with it. So, take your sweet time to read through.
 
