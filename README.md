@@ -84,8 +84,8 @@ I have learnt fundamentals about *Bash* and *Batch* programming. I must say, it 
  - Install/ Update Selenium
  - Run **Text_Repeat.py**
 
-You can download respective scripts from [master branch](https://github.com/1bl4z3r/Text_Repeat/tree/master)
-## How to Run
+You can download respective scripts(Runner.sh or Runner.bat) from [master branch](https://github.com/1bl4z3r/Text_Repeat/tree/master)
+## How to Run Runner files
 I must add that you can run **Text_Repeat.py** without these runner files as of now. I have a plan to integrate **Text_Repeat script** into it, so that you can run it with ease.
 
 *Linux*:
@@ -102,7 +102,7 @@ In the directory where you have downloaded `Runner.sh` and all the files from Te
  - Open CMD in **Administrator** mode. `Win+S`>Type`CMD`>Select `Run as administrator`
  - Copy and Paste: `C:\Users\%USERNAME%\Downloads\Runner.bat`, (assuming you have downloaded Runner.bat and files from Text_Repeat in Downloads folder).
  
- ## Something's Wrong
+ ## Something's Wrong with Runners
  - If you are not connected to Internet: `No Internet Connectivity`
  - If Python v3.x is not found/ installed: `Python3 is not Found`
  - If Pip3 is not found/ installed: `Pip3 is not Found`
