@@ -73,7 +73,40 @@ This zip contains:
 4. It will then present you on how many times you want to send a particular message to your recipients. Completing which it will show your choices.
 5. It will ask you which browser you choose and check for webdrivers in the folder. Loading which it will fireup existing browser and load up `web.whatsapp.com`.
 6. It will then ask you to scan QR code and press any key to continue.
-7. Now everything is automated, sit back and enjoy. And, don't mess up the browser window on which this script is working. 
+7. Now everything is automated, sit back and enjoy. And, don't mess up the browser window on which this script is working.
+
+## Something Extra
+So, most popular OS are Linux and Windows, and both support Python3. Mac users, I don't care about you, or what you have to say.
+I have learnt fundamentals about *Bash* and *Batch* programming. I must say, it is way too much convoluted. However, my banters aside; I have written simple runner programs for **Text_Repeat**. What does it do?
+ - Check if your internet is working (kinda redundant, but you can repurpose it for something else)
+ - Check if Python v3.x is installed
+ - Check if Pip (Windows) and Pip3 (Linux) is installed
+ - Install/ Update Selenium
+ - Run **Text_Repeat.py**
+
+You can download respective scripts(Runner.sh or Runner.bat) from [master branch](https://github.com/1bl4z3r/Text_Repeat/tree/master)
+## How to Run Runners
+I must add that you can run **Text_Repeat.py** without these runner files as of now. I have a plan to integrate **Text_Repeat script** into it, so that you can run it with ease.
+
+*Linux*:
+
+In the directory where you have downloaded `Runner.sh` and all the files from Text_Repeat, open terminal and type: 
+
+`chmod +x Runner.sh` (To make Runner.sh as executable)
+
+`./Runner.sh`
+
+*Windows*:
+ - Right click on `Runner.bat` and select **Run as administrator**
+ OR
+ - Open CMD in **Administrator** mode. `Win+S`>Type`CMD`>Select `Run as administrator`
+ - Copy and Paste: `C:\Users\%USERNAME%\Downloads\Runner.bat`, (assuming you have downloaded Runner.bat and files from Text_Repeat in Downloads folder).
+ 
+ ## Something's Wrong with Runners
+ - If you are not connected to Internet: `No Internet Connectivity`
+ - If Python v3.x is not found/ installed: `Python3 is not Found`
+ - If Pip3 is not found/ installed: `Pip3 is not Found`
+ - If Text_Repeat.py is not found: `<Your Username> did something wrong`
 
 ## License
 
