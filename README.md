@@ -85,7 +85,7 @@ I have learnt fundamentals about *Bash* and *Batch* programming. I must say, it 
  - Run **Text_Repeat.py**
 
 You can download respective scripts(Runner.sh or Runner.bat) from [master branch](https://github.com/1bl4z3r/Text_Repeat/tree/master)
-## How to Run Runner files
+## How to Run Runners
 I must add that you can run **Text_Repeat.py** without these runner files as of now. I have a plan to integrate **Text_Repeat script** into it, so that you can run it with ease.
 
 *Linux*:
