@@ -1,5 +1,4 @@
 @ECHO OFF
-
 python --version 2>&1 | findstr "3."
 if ERRORLEVEL 1 GOTO NOPY
 pip --version> nul 2>&1
