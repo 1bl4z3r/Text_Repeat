@@ -1,5 +1,4 @@
 #!/bin/bash
-
 wget -q --timeout=2 --spider http://example.com/
 if [[ $? -eq 0 ]]; then
         which python3 > /dev/null 2>&1
